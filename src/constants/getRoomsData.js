@@ -1,0 +1,5 @@
+export const GET_ROOMS_DATA = "GET_ROOMS_DATA";
+export const GET_ROOMS_DATA_SUCCEED = "GET_ROOMS_DATA_SUCCEED";
+export const GET_ROOMS_DATA_FAILED = "GET_ROOMS_DATA_FAILED";
+export const UPDATE_ROOM = "UPDATE_ROOM";
+export const SET_ROOM = "SET_ROOM";
